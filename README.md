@@ -20,7 +20,8 @@ For more information on the dataset, visit the official [Cityscape Dataset](http
 
 ## Architecture
 Segformer is a transformer-based model designed for semantic segmentation tasks. It leverages both local and global feature representations, providing a robust and scalable solution for vision tasks. This project uses the Segformer implementation from scratch, the model was built using the pytorch modular approach.
+![image](https://github.com/user-attachments/assets/1befff86-b10f-4e6e-b44f-98dad33ebcbf)
 
-## Installation
+For more details, refer to the original author of this architecture [here](https://arxiv.org/abs/2105.15203).
 
-To run this project, 
+
